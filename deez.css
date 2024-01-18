@@ -1,0 +1,54 @@
+#title	{
+	width: 480px 50%;
+	height: 120px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	display: block;
+}
+
+body	{
+	background-color: darkviolet;
+}
+
+#top	{
+	background-color: yellow;
+}
+
+#ELK	{
+	width: 25%;
+	background-color: violet;
+	text-align: center;
+	padding: 20px;
+	border: 5px solid yellow;
+	float: left;
+}
+
+#Wotor	{
+	width: 25%;
+	background-color: violet;
+	text-align: center;
+	padding: 20px;
+	border: 5px solid yellow;
+	display: inline-block;
+	margin-left: 85px;
+}
+
+#Tgty	{
+	width: 25%;
+	background-color: violet;
+	text-align: center;
+	padding: 20px;
+	border: 5px solid yellow;
+	float: right;
+	display: inline-block;
+	margin-left: 25px;
+}
+
+#ref	{
+	background-color: violet;
+	border: 5px solid yellow;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
